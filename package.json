@@ -1,0 +1,10 @@
+{
+  "name": "Timestamp-Microservice",
+  "description": "",
+  "author": "awan21@gmail.com",
+  "dependencies": {
+    "express": ">= 1.2.0",
+    "grunt": "^0.4.5"
+  },
+  "engine": "node 0.4.1"
+}
